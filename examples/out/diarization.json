@@ -1,0 +1,11 @@
+[
+  {
+    "speaker": "Target",
+    "start": 0.0,
+    "end": 3.345,
+    "text": "The stale smell of old gear lingers.",
+    "confidence": 1.0,
+    "score": 0.803,
+    "file": "examples/out\\target_0_3345.wav"
+  }
+]
